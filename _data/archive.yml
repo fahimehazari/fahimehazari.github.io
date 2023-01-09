@@ -1,9 +1,23 @@
 - type: dates
-  title: Dates
-  url: /dates/
+  title: Publications
+  url: /publications/
 #- type: categories
 #  title: Categories
 #  url: /categories/
 - type: tags
-  title: Tags
-  url: /tags/
+  title: Talks
+  url: /talks/
+#- type: categories
+#  title: Categories
+#  url: /categories/
+- type: cv
+  title: Resume
+  url: /resume/
+#- type: categories
+#  title: Categories
+#  url: /categories/
+- type: contact
+  title: Contacts
+  url: /contacts/
+
+  
