@@ -27,6 +27,12 @@ OARSI 2022 World Congress on Osteoarthritis, April 2022, Berlin, Germany
 2021
 ---
 <hr style="height: 5px;">
+<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=C-ZuElMAAAAJ&citation_for_view=C-ZuElMAAAAJ:9yKSN-GCB0IC">Cemented short-stem total hip arthroplasty appears promising in patients with poor bone quality </a>
+<br>
+Fahimeh Azari, Amelie Sas, Karl P Kutzner, Andreas Klockow, Thierry Scheerlinck, G Harry van Lenthe
+<br>
+26th Congress of the European Society of Biomechanics, August 2021, Milan, Italy
+
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/jor.24887">Cemented short‐stem total hip arthroplasty: Characteristics of line‐to‐line versus undersized cementing techniques using a validated CT‐based finite element analysis </a>
 <br>
 Fahimeh Azari, Amelie Sas, Karl P Kutzner, Andreas Klockow, Thierry Scheerlinck, G Harry van Lenthe
