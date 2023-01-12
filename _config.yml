@@ -2,10 +2,10 @@
 title: Fahimeh Azari  
 description: PhD researcher
 url: 'https://fahimehazari.github.io'
-avatar: /avatar.jpeg
+avatar: /image-pr.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /image-bg.jpg
 
 # Gems
 plugins:

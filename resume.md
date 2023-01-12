@@ -3,4 +3,5 @@ layout: page
 permalink: /resume/
 title: Resume
 ---
-You can download my full resume from <a href="https://www.github.com">here</a>
+You can download my full resume from <a href="https://github.com/fahimehazari/resume/raw/main/fahimeh-azari-cv.pdf">here</a>
+                                              
