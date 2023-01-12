@@ -5,7 +5,7 @@ url: 'https://fahimehazari.github.io'
 avatar: /image-pr.jpg
 paginate: 5
 permalink: pretty
-cover_image: /image-bg.jpg
+cover_image: /image-bg.jpg 
 
 # Gems
 plugins:

@@ -24,7 +24,7 @@ title: Talks
 <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=C-ZuElMAAAAJ&citation_for_view=C-ZuElMAAAAJ:9yKSN-GCB0IC">The cemented optimys stem: A computational study of line-to-line and undersized stems with experimental verification 
  </a>
 <br>
-<i class="fa fa-map-marker-alt"></i> 18th National Day on Biomedical engineering, Artificial Inteligence in Medicine, Brussels, Belgium
+<i class="fa fa-map-marker-alt"></i> 18th National Day on Biomedical Engineering, Artificial Intelligence in Medicine, Brussels, Belgium
 <br>
 <i class="fa fa-calendar"></i> November 2019 <i class="fa fa-file-powerpoint"></i> [Slides](/files/slides/F.Azari-NatDayBMe2019.pdf) 
 
