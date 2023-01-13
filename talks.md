@@ -21,7 +21,7 @@ title: Talks
 <br>
 <i class="fa fa-calendar"></i> August 2021 <i class="fa fa-file-powerpoint"></i> [Slides](/files/slides/F.Azari-ESB-2021.pdf)
 
-<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=C-ZuElMAAAAJ&citation_for_view=C-ZuElMAAAAJ:9yKSN-GCB0IC">The cemented optimys stem: A computational study of line-to-line and undersized stems with experimental verification 
+<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=C-ZuElMAAAAJ&citation_for_view=C-ZuElMAAAAJ:zYLM7Y9cAGgC">The cemented optimys stem: A computational study of line-to-line and undersized stems with experimental verification 
  </a>
 <br>
 <i class="fa fa-map-marker-alt"></i> 18th National Day on Biomedical Engineering, Artificial Intelligence in Medicine, Brussels, Belgium
