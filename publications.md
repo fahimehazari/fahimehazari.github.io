@@ -12,7 +12,7 @@ You can also find my papers on <a href="https://scholar.google.com/citations?use
 <br>
 William Colyn, Fahimeh Azari, Johan Bellemans, G. Harry van Lenthe, Lennart Scheys 
 <br>
-European Cells \& Materials Journal
+European Cells &amp; Materials Journal
 
 2022
 ---
