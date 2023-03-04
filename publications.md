@@ -8,21 +8,20 @@ You can also find my papers on <a href="https://scholar.google.com/citations?use
 2023
 ---
 <hr style="height: 5px;">
+<a href="https://www.ecmjournal.org/papers/vol045/vol045a05.php">Microstructural adaptations of the subchondral tibial bone are related to the mechanical axis deviation in end-stage varus osteoarthritic knees </a>
+<br>
+William Colyn, Fahimeh Azari, Johan Bellemans, G. Harry van Lenthe, Lennart Scheys 
+<br>
+European Cells \& Materials Journal
 
 2022
 ---
 <hr style="height: 5px;">
-<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=C-ZuElMAAAAJ&citation_for_view=C-ZuElMAAAAJ:qjMakFHDy7sC">In the end-stage knee osteoarthritis the subchondral bone microarchitecture of the tibial plateau is correlated to that of the distal femur </a>
+<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=C-ZuElMAAAAJ&citation_for_view=C-ZuElMAAAAJ:qjMakFHDy7sC">Microstructural adaptations of the subchondral bone are related to the mechanical axis deviation in end stage varus OA knees </a>
 <br>
 Fahimeh Azari, William Colyn, Johan Bellemans, Lennart Scheys, G. Harry van Lenthe
 <br>
 27th Congress of the European Society of Biomechanics, June 2022, Porto, Portugal
-
-<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=C-ZuElMAAAAJ&citation_for_view=C-ZuElMAAAAJ:qjMakFHDy7sC">Microstructural adaptations of the subchondral tibial bone are related to the mechanical axis deviation in end-stage varus osteoarthritic knees </a>
-<br>
-William Colyn, Fahimeh Azari, Johan Bellemans, G. Harry van Lenthe, Lennart Scheys 
-<br>
-OARSI 2022 World Congress on Osteoarthritis, April 2022, Berlin, Germany
 
 2021
 ---

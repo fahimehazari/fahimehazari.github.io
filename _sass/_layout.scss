@@ -5,7 +5,7 @@
 .container {
   padding: 0;
   margin: 0;
-}
+  }
 
 .home-header {
   margin-top: -1em;
@@ -19,7 +19,8 @@
   margin-left:  auto;
   margin-right: auto;
   min-height: 100vh;
-}
+  width: 60%
+  }
 
 .sidebar-left {
   display: flex;
