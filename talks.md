@@ -7,7 +7,7 @@ title: Talks
 <br>
 <i class="fa fa-map-marker-alt"></i> 50th Congress of the European Calcified Tissue Society, Liverpool, UK
 <br>
-<i class="fa fa-calendar"></i> April 2023 <i class="fa fa-file-powerpoint"></i> [Slides](/files/slides/F.Azari-ECTS-2023.pdf)
+<i class="fa fa-calendar"></i> April 2023 <i class="fa fa-file-powerpoint"></i> [Slides](/files/slides/ECTS2023_Poster.pdf)
 
 <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=C-ZuElMAAAAJ&citation_for_view=C-ZuElMAAAAJ:qjMakFHDy7sC">In the end-stage knee osteoarthritis the subchondral bone microarchitecture of the tibial plateau is correlated to that of the distal femur </a>
 <br>
