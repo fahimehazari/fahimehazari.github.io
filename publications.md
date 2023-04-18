@@ -17,7 +17,7 @@ European Cells &amp; Materials Journal
 2022
 ---
 <hr style="height: 5px;">
-<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=C-ZuElMAAAAJ&citation_for_view=C-ZuElMAAAAJ:qjMakFHDy7sC">Microstructural adaptations of the subchondral bone are related to the mechanical axis deviation in end stage varus OA knees </a>
+<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=C-ZuElMAAAAJ&citation_for_view=C-ZuElMAAAAJ:qjMakFHDy7sC">In the end-stage knee osteoarthritis the subchondral bone microarchitecture of the tibial plateau is correlated to that of the distal femur </a>
 <br>
 Fahimeh Azari, William Colyn, Johan Bellemans, Lennart Scheys, G. Harry van Lenthe
 <br>
