@@ -3,6 +3,12 @@ layout: page
 title: Talks
 ---
 
+<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=C-ZuElMAAAAJ&sortby=pubdate&citation_for_view=C-ZuElMAAAAJ:W7OEmFMy1HYC">Quantitative assessment of bone microarchitecture in the human knee using photon-counting CT is feasible </a>
+<br>
+<i class="fa fa-map-marker-alt"></i> 28th Congress of the European Society of Biomechanics, Maastricht, the Netherlands
+<br>
+<i class="fa fa-calendar"></i> July 2023 <i class="fa fa-file-powerpoint"></i> [Slides](/files/slides/ESB2023_Poster)
+
 <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=C-ZuElMAAAAJ&sortby=pubdate&citation_for_view=C-ZuElMAAAAJ:Y0pCki6q_DkC">Photon-counting CT appears promising in quantifying bone microstructure in the knee </a>
 <br>
 <i class="fa fa-map-marker-alt"></i> 50th Congress of the European Calcified Tissue Society, Liverpool, UK
