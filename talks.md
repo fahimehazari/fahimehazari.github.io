@@ -7,7 +7,7 @@ title: Talks
 <br>
 <i class="fa fa-map-marker-alt"></i> 28th Congress of the European Society of Biomechanics, Maastricht, the Netherlands
 <br>
-<i class="fa fa-calendar"></i> July 2023 <i class="fa fa-file-powerpoint"></i> [Slides](/files/slides/ESB2023_Poster)
+<i class="fa fa-calendar"></i> July 2023 <i class="fa fa-file-powerpoint"></i> [Slides](/files/slides/ESB2023_Poster.pdf)
 
 <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=C-ZuElMAAAAJ&sortby=pubdate&citation_for_view=C-ZuElMAAAAJ:Y0pCki6q_DkC">Photon-counting CT appears promising in quantifying bone microstructure in the knee </a>
 <br>

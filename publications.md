@@ -8,6 +8,18 @@ You can also find my papers on <a href="https://scholar.google.com/citations?use
 2023
 ---
 <hr style="height: 5px;">
+<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=C-ZuElMAAAAJ&sortby=pubdate&citation_for_view=C-ZuElMAAAAJ:W7OEmFMy1HYC">Quantitative assessment of bone microarchitecture in the human knee using photon-counting CT is feasible </a>
+<br>
+Fahimeh Azari, Walter Coudyzer, Caroline E. Wyers, Joop P. van den Berg, G. Harry van Lenthe
+<br>
+28th Congress of the European Society of Biomechanics, July 2023, Maastricht, The Netherlands
+
+<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=C-ZuElMAAAAJ&sortby=pubdate&citation_for_view=C-ZuElMAAAAJ:Y0pCki6q_DkC">Photon-counting CT appears promising in quantifying bone microstructure in the knee </a>
+<br>
+Fahimeh Azari, Walter Coudyzer, Caroline E. Wyers, Joop P. van den Berg, G. Harry van Lenthe
+<br>
+50th Congress of the European Calcified Tissue Society, April 2023, Liverpool, UK
+
 <a href="https://www.ecmjournal.org/papers/vol045/vol045a05.php">Microstructural adaptations of the subchondral tibial bone are related to the mechanical axis deviation in end-stage varus osteoarthritic knees </a>
 <br>
 William Colyn, Fahimeh Azari, Johan Bellemans, G. Harry van Lenthe, Lennart Scheys 
